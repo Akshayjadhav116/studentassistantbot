@@ -1,0 +1,23 @@
+<aiml>
+
+<category>
+    <pattern>HELLO</pattern>
+    <template>Hello! How can I help you?</template>
+</category>
+
+<category>
+    <pattern>WHAT IS YOUR NAME</pattern>
+    <template>I am a chatbot created using Pandorabots.</template>
+</category>
+
+<category>
+    <pattern>WHAT ARE YOU DOING</pattern>
+    <template>I am here to assist you.</template>
+</category>
+
+<category>
+    <pattern>BYE</pattern>
+    <template>Goodbye! Have a great day!</template>
+</category>
+
+</aiml>
